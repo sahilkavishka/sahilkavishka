@@ -5,7 +5,7 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/github-profile-counter/svg?username=sahilkavishka&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/github-profile-counter/svg?username=sahilkavishka&style=flat-square&color=blue" alt="Profile views"></img>
 </p>
 
 ---
