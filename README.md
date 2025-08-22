@@ -86,26 +86,6 @@
 
 ---
 
-## 📈 Contribution Graph
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sahilkavishka&theme=tokyonight" alt="WakaTime Stats"/>
-</div>
-
----
-
-## 🌟 Featured Projects
-
-<!-- You can add your best projects here -->
-<div align="center">
-  <a href="https://github.com/sahilkavishka/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilkavishka&repo=project1&theme=tokyonight" alt="Project 1"/>
-  </a>
-  <a href="https://github.com/sahilkavishka/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sahilkavishka&repo=project2&theme=tokyonight" alt="Project 2"/>
-  </a>
-</div>
-
----
 
 ## 🤝 Let's Connect!
 
