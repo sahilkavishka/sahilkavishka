@@ -16,7 +16,7 @@
 
 
 
-Hello! I'm **Sahil Kavishka**, a passionate **Full-Stack Developer** from 🇱🇰 Sri Lanka.  
+a passionate **Full-Stack Developer** from 🇱🇰 Sri Lanka.  
 I love building **web apps, mobile apps, and APIs** that solve real-world problems.  
 Currently focusing on **Django, React, and Flutter** while exploring new technologies.  
 
