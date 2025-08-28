@@ -235,8 +235,11 @@ Other        1 hr 35 mins    █▋░░░░░░░░░░░░░░░
 ## 🐍 Contribution Snake
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sahilkavishka/sahilkavishka/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+  <img src="assets/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+
 </div>
+
+
 
 ---
 
