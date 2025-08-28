@@ -46,33 +46,13 @@ Currently focusing on **Django, React, and Flutter** while exploring new technol
 
 ---
 
-### 🚀 Featured Projects  
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilkavishka&repo=vegetable_market&theme=react)](https://github.com/sahilkavishka/vegetable_market)  
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilkavishka&repo=sports_management&theme=react)](https://github.com/sahilkavishka/sports_management)
-
----
 
 ### 📊 GitHub Stats  
 
 ![](https://github-readme-stats.vercel.app/api?username=sahilkavishka&show_icons=true&theme=react)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=sahilkavishka&theme=react)  
 ![](https://github-readme-activity-graph.vercel.app/graph?username=sahilkavishka&theme=react-dark)
-
----
-
-### 🏆 Achievements  
-
-![](https://github-profile-trophy.vercel.app/?username=sahilkavishka&theme=onedark&no-frame=true&margin-w=15&margin-h=15)
-
----
-
-### 📬 Connect with Me  
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilkavishka)  
-[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilkavishka@example.com)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://sahilkavishka.vercel.app)
-
 
 
 ---
