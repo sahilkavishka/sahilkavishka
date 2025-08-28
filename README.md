@@ -10,34 +10,70 @@
 
 ---
 
-## 🌟 About Me
+## 👋 About Me  
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-```typescript
-const sahil = {
-  pronouns: "he" | "him",
-  code: ["JavaScript", "TypeScript", "Python", "Java", "Dart"],
-  askMeAbout: ["web dev", "mobile dev", "tech", "app dev", "UI/UX"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js", "Angular"],
-      css: ["Bootstrap", "Tailwind", "Material-UI"],
-      uiLibraries: ["React Native", "Flutter"]
-    },
-    backEnd: {
-      js: ["Node.js", "Express"],
-      python: ["Django", "Flask"],
-      java: ["Spring Boot"],
-      php: ["Laravel"]
-    },
-    databases: ["MongoDB", "MySQL", "SQLite", "PostgreSQL"],
-    misc: ["Docker", "AWS", "Git", "Arduino"]
-  },
-  currentFocus: "Building scalable applications with modern tech stack",
-  funFact: "I debug with console.log() and I'm not ashamed! 🐛"
-};
-```
+
+
+Hello! I'm **Sahil Kavishka**, a passionate **Full-Stack Developer** from 🇱🇰 Sri Lanka.  
+I love building **web apps, mobile apps, and APIs** that solve real-world problems.  
+Currently focusing on **Django, React, and Flutter** while exploring new technologies.  
+
+---
+
+### 💻 Tech Stack  
+
+#### 🌐 Frontend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap" />
+</p>
+
+#### ⚙️ Backend  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring,php,laravel" />
+</p>
+
+#### 📱 Mobile Development  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio" />
+</p>
+
+#### 🛠️ Tools & Others  
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,mysql,sqlite,vscode,postman,figma" />
+</p>
+
+---
+
+### 🚀 Featured Projects  
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilkavishka&repo=vegetable_market&theme=react)](https://github.com/sahilkavishka/vegetable_market)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilkavishka&repo=sports_management&theme=react)](https://github.com/sahilkavishka/sports_management)
+
+---
+
+### 📊 GitHub Stats  
+
+![](https://github-readme-stats.vercel.app/api?username=sahilkavishka&show_icons=true&theme=react)  
+![](https://github-readme-streak-stats.herokuapp.com/?user=sahilkavishka&theme=react)  
+![](https://github-readme-activity-graph.vercel.app/graph?username=sahilkavishka&theme=react-dark)
+
+---
+
+### 🏆 Achievements  
+
+![](https://github-profile-trophy.vercel.app/?username=sahilkavishka&theme=onedark&no-frame=true&margin-w=15&margin-h=15)
+
+---
+
+### 📬 Connect with Me  
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilkavishka)  
+[![Gmail](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sahilkavishka@example.com)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://sahilkavishka.vercel.app)
+
+
 
 ---
 
