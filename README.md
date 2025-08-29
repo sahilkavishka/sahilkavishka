@@ -214,9 +214,10 @@ Other        1 hr 35 mins    █▋░░░░░░░░░░░░░░░
 <div align="center">
   
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sahilkavishka.dev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://linkedin.com/in/sahilkavishka](https://www.linkedin.com/in/sahil-kavishka-439b07369/?trk=opento_sprofile_topcard))
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com/sahil_kavishka](https://www.instagram.com/sahil_kavishka/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kavishka-439b07369/?trk=opento_sprofile_topcard)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/sahil_kavishka/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilkavishka428@gmail.com)
+
 
 
 </div>
