@@ -1,269 +1,225 @@
-# <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px" /> Hey there! I'm Sahil Kavishka
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer;Mobile+App+Developer;UI%2FUX+Enthusiast;Open+Source+Contributor&font=Fira%20Code&center=true&width=380&height=50&duration=4000&pause=1000" alt="Typing Animation" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,50:FFBE0B,100:FB8500&height=100&section=header&text=&fontSize=0" width="100%"/>
-</div>
-
----
-
-## 👋 About Me  
-
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-
-
-
-a passionate **Full-Stack Developer** from 🇱🇰 Sri Lanka.  
-I love building **web apps, mobile apps, and APIs** that solve real-world problems.  
-Currently focusing on **Django, React, and Flutter** while exploring new technologies.  
-
----
-
-### 💻 Tech Stack  
-
-#### 🌐 Frontend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,next,tailwind,bootstrap" />
-</p>
-
-#### ⚙️ Backend  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,django,java,spring,php,laravel" />
-</p>
-
-#### 📱 Mobile Development  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=flutter,react,androidstudio" />
-</p>
-
-#### 🛠️ Tools & Others  
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,mysql,sqlite,vscode,postman,figma" />
-</p>
-
----
-
-
-
-### 📊 GitHub Stats  
-
-![](https://github-readme-stats.vercel.app/api?username=sahilkavishka&show_icons=true&theme=react)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=sahilkavishka&theme=react)  
-![](https://github-readme-activity-graph.vercel.app/graph?username=sahilkavishka&theme=react-dark)
-
-
----
-
-## 🚀 What I'm Up To
-
-- 🔨 Building awesome **full-stack applications** with modern frameworks
-- 🤖 Exploring **AI/ML** integration in web applications
-- 📱 Developing **cross-platform mobile apps** with Flutter
-- 🌱 Learning **cloud architecture** and **DevOps practices**
-- 💡 Contributing to **open-source** projects
-- 🎯 Mentoring junior developers in my community
-
----
-
-## 🛠️ Tech Stack & Tools
-
-<details>
-<summary>🎨 <b>Frontend Development</b></summary>
-<br/>
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
-![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-
-</details>
-
-<details>
-<summary>⚙️ <b>Backend Development</b></summary>
-<br/>
-
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-</details>
-
-<details>
-<summary>📱 <b>Mobile Development</b></summary>
-<br/>
-
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-</details>
-
-<details>
-<summary>🗄️ <b>Databases & Cloud</b></summary>
-<br/>
-
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-
-</details>
-
-<details>
-<summary>🎨 <b>Design & Creative Tools</b></summary>
-<br/>
-
-![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF?style=for-the-badge&logo=adobe%20lightroom&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
-
-</details>
-
-<details>
-<summary>🔧 <b>Development Tools</b></summary>
-<br/>
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-</details>
-
----
-
-## 📊 GitHub Analytics
-
-<div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=sahilkavishka&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats"/>
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkavishka&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFFFFF&langs_count=8" alt="Top Languages"/>
-</div>
-
-<div align="center">
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkavishka&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=F85D7F&sideNums=FFFFFF&currStreakNum=FFFFFF&ring=F85D7F&sideLabels=A0A9B8&currStreakLabel=A0A9B8&dates=A0A9B8" alt="GitHub Streak"/>
-  <img width="390" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkavishka&custom_title=Sahil's%20GitHub%20Activity%20Graph&theme=react-dark&bg_color=0D1117&hide_border=true&line=F85D7F&point=FFFFFF&area_color=F85D7F&area=true" alt="Activity Graph"/>
-</div>
-
----
-
-## 🏆 Achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sahilkavishka&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 💼 Featured Projects
-
 <div align="center">
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilkavishka&repo=your-awesome-project&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/sahilkavishka/your-awesome-project)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=sahilkavishka&repo=another-cool-project&theme=react&hide_border=true&bg_color=0D1117)](https://github.com/sahilkavishka/another-cool-project)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c12,40:0c1220,80:0d1f3c,100:071525&height=180&section=header&text=Sahil%20Kavishka&fontSize=52&fontColor=60a5fa&fontAlignY=58&desc=Full-Stack%20Developer%20%C2%B7%20Data%20Scientist&descAlignY=76&descSize=16&descColor=64748b&animation=fadeIn" width="100%"/>
+
+<br/>
+
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack+Developer+%7C+Data+Scientist;Django+%7C+React+%7C+Machine+Learning;Building+sports+%26+education+apps;Clean+UI+%C2%B7+Accessible+%C2%B7+Production-Ready;Based+in+%F0%9F%87%B1%F0%9F%87%B0+Sri+Lanka&font=JetBrains+Mono&center=true&width=540&height=52&duration=3000&pause=900&color=60a5fa&size=14" alt="Typing SVG" />
+
+<br/><br/>
+
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-0c1220?style=for-the-badge&logo=google-chrome&logoColor=60a5fa&labelColor=0c1220)](https://sahilkavishka.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0c1220?style=for-the-badge&logo=linkedin&logoColor=0077B5&labelColor=0c1220)](https://www.linkedin.com/in/sahil-kavishka-439b07369/)
+[![GitHub](https://img.shields.io/badge/GitHub-0c1220?style=for-the-badge&logo=github&logoColor=ffffff&labelColor=0c1220)](https://github.com/sahilkavishka)
+[![Email](https://img.shields.io/badge/Email-0c1220?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0c1220)](mailto:sahilkavishka428@gmail.com)
+
+<br/>
+
+![Status](https://img.shields.io/badge/%E2%97%8F%20Available%20for%20Freelance-10b981?style=flat-square&labelColor=052e16)
+![Profile Views](https://komarev.com/ghpvc/?username=sahilkavishka&label=Profile+Views&color=3b82f6&style=flat-square)
+[![Followers](https://img.shields.io/github/followers/sahilkavishka?label=Followers&style=flat-square&color=3b82f6)](https://github.com/sahilkavishka)
 
 </div>
 
 ---
 
-## 📈 Weekly Development Breakdown
+## `about`
+
+```js
+const sahil = {
+  name      : "Sahil Kavishka",
+  title     : ["Full-Stack Developer", "Data Scientist"],
+  location  : "Anuradhapura, Sri Lanka 🇱🇰",
+  building  : "Sports tournament platform + ML prediction engine",
+  stack     : ["Django", "React", "Python", "SQL"],
+  exploring : ["Deep Learning", "MLOps", "WebSockets", "LLM fine-tuning"],
+  passion   : "Clean UI, accessibility, and products that feel great to use",
+  funFact   : "Volleyball fan who codes match outcome predictors 🏐",
+  openTo    : "Freelance projects & meaningful collaborations",
+};
+// background: full-stack dev → data science (end-to-end data products)
+```
+
+---
+
+## `tech stack`
+
+**`// Web Development`**
+
+![HTML5](https://img.shields.io/badge/HTML5-0c1220?style=flat-square&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-0c1220?style=flat-square&logo=css3&logoColor=1572b6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0c1220?style=flat-square&logo=javascript&logoColor=f7df1e)
+![React](https://img.shields.io/badge/React-0c1220?style=flat-square&logo=react&logoColor=61dafb)
+![Tailwind](https://img.shields.io/badge/Tailwind-0c1220?style=flat-square&logo=tailwindcss&logoColor=06b6d4)
+![Django](https://img.shields.io/badge/Django-0c1220?style=flat-square&logo=django&logoColor=2ab255)
+![FastAPI](https://img.shields.io/badge/FastAPI-0c1220?style=flat-square&logo=fastapi&logoColor=009688)
+![Figma](https://img.shields.io/badge/Figma-0c1220?style=flat-square&logo=figma&logoColor=f24e1e)
+
+**`// Languages`**
+
+![Python](https://img.shields.io/badge/Python-0c1220?style=flat-square&logo=python&logoColor=3776ab)
+![R](https://img.shields.io/badge/R-0c1220?style=flat-square&logo=r&logoColor=276dc3)
+![SQL](https://img.shields.io/badge/SQL-0c1220?style=flat-square&logo=postgresql&logoColor=4479a1)
+![Bash](https://img.shields.io/badge/Bash-0c1220?style=flat-square&logo=gnubash&logoColor=4eaa25)
+
+**`// ML & Data Science`**
+
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0c1220?style=flat-square&logo=scikit-learn&logoColor=f7931e)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0c1220?style=flat-square&logo=tensorflow&logoColor=ff6f00)
+![PyTorch](https://img.shields.io/badge/PyTorch-0c1220?style=flat-square&logo=pytorch&logoColor=ee4c2c)
+![Pandas](https://img.shields.io/badge/Pandas-0c1220?style=flat-square&logo=pandas&logoColor=150458)
+![NumPy](https://img.shields.io/badge/NumPy-0c1220?style=flat-square&logo=numpy&logoColor=013243)
+![Plotly](https://img.shields.io/badge/Plotly-0c1220?style=flat-square&logo=plotly&logoColor=3f4f75)
+![Tableau](https://img.shields.io/badge/Tableau-0c1220?style=flat-square&logo=tableau&logoColor=e97627)
+![XGBoost](https://img.shields.io/badge/XGBoost-0c1220?style=flat-square&logo=python&logoColor=0073b7)
+
+**`// Databases & DevOps`**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0c1220?style=flat-square&logo=postgresql&logoColor=4169e1)
+![MySQL](https://img.shields.io/badge/MySQL-0c1220?style=flat-square&logo=mysql&logoColor=4479a1)
+![MongoDB](https://img.shields.io/badge/MongoDB-0c1220?style=flat-square&logo=mongodb&logoColor=47a248)
+![Docker](https://img.shields.io/badge/Docker-0c1220?style=flat-square&logo=docker&logoColor=2496ed)
+![Git](https://img.shields.io/badge/Git-0c1220?style=flat-square&logo=git&logoColor=f05032)
+![Jupyter](https://img.shields.io/badge/Jupyter-0c1220?style=flat-square&logo=jupyter&logoColor=f37626)
+![VS Code](https://img.shields.io/badge/VS%20Code-0c1220?style=flat-square&logo=visualstudiocode&logoColor=007acc)
+
+---
+
+## `projects`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 Sports Tournaments System
+![ACTIVE](https://img.shields.io/badge/ACTIVE-052e16?style=flat-square&labelColor=052e16&color=10b981)
+
+Role-based platform (Organizer / Player / Spectator) with fixture management, live scores, leaderboards & ML match prediction via REST API.
+
+`Django` `MySQL` `Scikit-learn` `AJAX` `Python`
+
+</td>
+<td width="50%" valign="top">
+
+### 📊 Math Quiz Analytics Dashboard
+![COMPLETE](https://img.shields.io/badge/COMPLETE-0f1e36?style=flat-square&labelColor=0f1e36&color=3b82f6)
+
+Interactive educator dashboard with cohort analysis, skill-gap detection, timed quizzes, and a dedicated leaderboard page.
+
+`HTML/CSS/JS` `Plotly` `SQL` `Python`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌐 Portfolio v2
+[![LIVE](https://img.shields.io/badge/LIVE-sahilkavishka.github.io-10b981?style=flat-square&logo=github-pages&logoColor=white)](https://sahilkavishka.github.io/portfolio/)
+
+Zero-JS single-file portfolio. Semantic HTML, CSS variables, mobile-first, fully accessible & themeable via `:root`.
+
+`HTML5` `CSS3` `No-JS` `Accessible`
+
+</td>
+<td width="50%" valign="top">
+
+### 🔮 SL Sports Analytics *(planning)*
+
+Public Sri Lankan sports dataset + open prediction models & interactive visualizations. A resource for local sports tech & research.
+
+`Python` `Pandas` `Plotly` `Open Data`
+
+</td>
+</tr>
+</table>
+
+---
+
+## `github stats`
+
+<div align="center">
+
+<img width="390" src="https://github-readme-stats.vercel.app/api?username=sahilkavishka&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=60a5fa&icon_color=10b981&text_color=94a3b8&ring_color=3b82f6" />
+<img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkavishka&layout=compact&theme=tokyonight&hide_border=true&bg_color=0c1220&title_color=60a5fa&text_color=94a3b8&langs_count=8" />
+
+<img width="800" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkavishka&theme=tokyonight&hide_border=true&background=0c1220&stroke=0c1220&fire=60a5fa&sideNums=94a3b8&currStreakNum=60a5fa&ring=10b981&sideLabels=475569&currStreakLabel=475569&dates=374151" />
+
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkavishka&theme=tokyo-night&bg_color=0c1220&hide_border=true&line=60a5fa&point=10b981&area=true&area_color=3b82f6" />
+
+</div>
+
+---
+
+## `trophies`
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahilkavishka&theme=tokyonight&no-frame=true&margin-w=6&row=1&column=6" />
+</div>
+
+---
+
+## `coding activity`
 
 <!--START_SECTION:waka-->
 ```text
-TypeScript   8 hrs 32 mins   █████████░░░░░░░░░░░░░░░░   35.2% 
-React        6 hrs 15 mins   ██████▌░░░░░░░░░░░░░░░░░░   25.8% 
-Python       4 hrs 30 mins   ████▋░░░░░░░░░░░░░░░░░░░░   18.6% 
-JavaScript   3 hrs 20 mins   ███▌░░░░░░░░░░░░░░░░░░░░░   13.8% 
-Other        1 hr 35 mins    █▋░░░░░░░░░░░░░░░░░░░░░░░    6.6%
+Python       ████████████░░░░░░░░░░░░░   42.1%
+Jupyter      ███████░░░░░░░░░░░░░░░░░░   26.7%
+SQL          ████░░░░░░░░░░░░░░░░░░░░░   15.4%
+Markdown     ██░░░░░░░░░░░░░░░░░░░░░░░    8.9%
+Other        ██░░░░░░░░░░░░░░░░░░░░░░░    6.9%
 ```
 <!--END_SECTION:waka-->
 
 ---
 
-## 🎯 Current Goals for 2025
+## `2025 goals`
 
-- [ ] **Contribute to 10 open-source projects**
-- [ ] **Build and deploy 5 full-stack applications**
-- [ ] **Learn and implement microservices architecture**
-- [ ] **Get AWS certification**
-- [ ] **Mentor 20+ junior developers**
-- [ ] **Write 50 technical blog posts**
+```bash
+#!/bin/bash
+# 2025 roadmap
 
----
+goals=(
+  "[ ] 01 · Top 20% finish in a Kaggle competition"
+  "[ ] 02 · Ship 3 end-to-end ML projects to production"
+  "[ ] 03 · Earn Google Data Analytics or AWS ML Specialty cert"
+  "[ ] 04 · Publish technical write-ups on project decisions & learnings"
+  "[ ] 05 · Make meaningful open-source contributions"
+  "[ ] 06 · Build & publish Sri Lankan sports analytics dataset + open model"
+  "[ ] 07 · Launch real-time WebSocket features in tournament app"
+)
 
-## 🤝 Let's Connect & Collaborate!
-
-<div align="center">
-  
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://sahilkavishka.github.io/portfolio/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sahil-kavishka-439b07369/?trk=opento_sprofile_topcard)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sahilkavishka428@gmail.com)
-
-
-
-
-</div>
+for goal in "${goals[@]}"; do echo "$goal"; done
+```
 
 ---
 
-## 💡 Random Dev Quote
+## `contribution snake`
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react&border=true" alt="Random Dev Quote"/>
-</div>
-
----
-
-## 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/sahilkavishka/sahilkavishka/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-
-
-
----
-
-## 📊 Profile Views & Followers
-
-<div align="center">
-  
-![Profile Views](https://komarev.com/ghpvc/?username=sahilkavishka&label=Profile%20views&color=0e75b6&style=flat)
-[![GitHub followers](https://img.shields.io/github/followers/sahilkavishka?label=Follow&style=social)](https://github.com/sahilkavishka)
-[![GitHub stars](https://img.shields.io/github/stars/sahilkavishka?label=Stars&style=social)](https://github.com/sahilkavishka)
-
+  <img src="https://raw.githubusercontent.com/sahilkavishka/sahilkavishka/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
 </div>
 
 ---
 
 <div align="center">
-  
-### 💭 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
 
-**Thanks for visiting! 😊**
+### Let's build something great together
 
-⭐️ From [sahilkavishka](https://github.com/sahilkavishka) with ❤️
+*Open to freelance, contracts, and meaningful collaborations*
 
-</div>
+<br/>
 
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E1306C,50:FFBE0B,100:FB8500&height=100&section=footer" width="100%"/>
+[![Portfolio](https://img.shields.io/badge/%F0%9F%8C%90%20Portfolio-0c1220?style=for-the-badge&logo=google-chrome&logoColor=60a5fa&labelColor=0c1220)](https://sahilkavishka.github.io/portfolio/)
+[![Email](https://img.shields.io/badge/%F0%9F%93%A7%20Email-0c1220?style=for-the-badge&logo=gmail&logoColor=ea4335&labelColor=0c1220)](mailto:sahilkavishka428@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/%F0%9F%92%BC%20LinkedIn-0c1220?style=for-the-badge&logo=linkedin&logoColor=0077b5&labelColor=0c1220)](https://www.linkedin.com/in/sahil-kavishka-439b07369/)
+
+<br/>
+
+> *"Without data, you're just another person with an opinion."*
+> — W. Edwards Deming
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:071525,50:0d1f3c,100:080c12&height=100&section=footer" width="100%"/>
+
 </div>
