@@ -44,7 +44,7 @@ const sahil = {
 
 ## `tech stack`
 
-**`// Web Development`**
+**`Web Development`**
 
 ![HTML5](https://img.shields.io/badge/HTML5-0c1220?style=flat-square&logo=html5&logoColor=e34f26)
 ![CSS3](https://img.shields.io/badge/CSS3-0c1220?style=flat-square&logo=css3&logoColor=1572b6)
@@ -55,14 +55,14 @@ const sahil = {
 ![FastAPI](https://img.shields.io/badge/FastAPI-0c1220?style=flat-square&logo=fastapi&logoColor=009688)
 ![Figma](https://img.shields.io/badge/Figma-0c1220?style=flat-square&logo=figma&logoColor=f24e1e)
 
-**`// Languages`**
+**`Languages`**
 
 ![Python](https://img.shields.io/badge/Python-0c1220?style=flat-square&logo=python&logoColor=3776ab)
 ![R](https://img.shields.io/badge/R-0c1220?style=flat-square&logo=r&logoColor=276dc3)
 ![SQL](https://img.shields.io/badge/SQL-0c1220?style=flat-square&logo=postgresql&logoColor=4479a1)
 ![Bash](https://img.shields.io/badge/Bash-0c1220?style=flat-square&logo=gnubash&logoColor=4eaa25)
 
-**`// ML & Data Science`**
+**`ML & Data Science`**
 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0c1220?style=flat-square&logo=scikit-learn&logoColor=f7931e)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-0c1220?style=flat-square&logo=tensorflow&logoColor=ff6f00)
@@ -73,7 +73,7 @@ const sahil = {
 ![Tableau](https://img.shields.io/badge/Tableau-0c1220?style=flat-square&logo=tableau&logoColor=e97627)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0c1220?style=flat-square&logo=python&logoColor=0073b7)
 
-**`// Databases & DevOps`**
+**`Databases & DevOps`**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0c1220?style=flat-square&logo=postgresql&logoColor=4169e1)
 ![MySQL](https://img.shields.io/badge/MySQL-0c1220?style=flat-square&logo=mysql&logoColor=4479a1)
