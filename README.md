@@ -48,6 +48,7 @@ const sahil = {
 
 **`AI, Machine Learning & NLP`**
 
+![Python](https://img.shields.io/badge/Python-0c1220?style=flat-square&logo=python&logoColor=3776ab)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0c1220?style=flat-square&logo=pytorch&logoColor=ee4c2c)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0c1220?style=flat-square&logo=scikit-learn&logoColor=f7931e)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0c1220?style=flat-square&logo=huggingface&logoColor=ffbf00)
@@ -55,7 +56,7 @@ const sahil = {
 ![spaCy](https://img.shields.io/badge/spaCy-0c1220?style=flat-square&logo=spacy&logoColor=09a3d5)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0c1220?style=flat-square&logo=python&logoColor=0073b7)
 
-**`Data Analysis & Visualization`**
+**`Data Science, Analysis & BI`**
 
 ![Pandas](https://img.shields.io/badge/Pandas-0c1220?style=flat-square&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0c1220?style=flat-square&logo=numpy&logoColor=013243)
@@ -63,19 +64,23 @@ const sahil = {
 ![Plotly](https://img.shields.io/badge/Plotly-0c1220?style=flat-square&logo=plotly&logoColor=3f4f75)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0c1220?style=flat-square&logo=jupyter&logoColor=f37626)
 
-**`Languages & Frameworks`**
+**`Web Development (Full-Stack)`**
 
-![Python](https://img.shields.io/badge/Python-0c1220?style=flat-square&logo=python&logoColor=3776ab)
-![SQL](https://img.shields.io/badge/SQL-0c1220?style=flat-square&logo=postgresql&logoColor=4479a1)
-![FastAPI](https://img.shields.io/badge/FastAPI-0c1220?style=flat-square&logo=fastapi&logoColor=009688)
 ![Django](https://img.shields.io/badge/Django-0c1220?style=flat-square&logo=django&logoColor=2ab255)
+![FastAPI](https://img.shields.io/badge/FastAPI-0c1220?style=flat-square&logo=fastapi&logoColor=009688)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0c1220?style=flat-square&logo=javascript&logoColor=f7df1e)
+![HTML5](https://img.shields.io/badge/HTML5-0c1220?style=flat-square&logo=html5&logoColor=e34f26)
+![CSS3](https://img.shields.io/badge/CSS3-0c1220?style=flat-square&logo=css3&logoColor=1572b6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0c1220?style=flat-square&logo=bootstrap&logoColor=7952b3)
 
-**`Data Engineering & Tooling`**
+**`Databases & Tools`**
 
+![SQL](https://img.shields.io/badge/SQL-0c1220?style=flat-square&logo=postgresql&logoColor=4479a1)
 ![MySQL](https://img.shields.io/badge/MySQL-0c1220?style=flat-square&logo=mysql&logoColor=4479a1)
+![SQLite](https://img.shields.io/badge/SQLite-0c1220?style=flat-square&logo=sqlite&logoColor=003b57)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0c1220?style=flat-square&logo=postgresql&logoColor=4169e1)
 ![Git](https://img.shields.io/badge/Git-0c1220?style=flat-square&logo=git&logoColor=f05032)
+![GitHub](https://img.shields.io/badge/GitHub-0c1220?style=flat-square&logo=github&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/Docker-0c1220?style=flat-square&logo=docker&logoColor=2496ed)
 
 ---
