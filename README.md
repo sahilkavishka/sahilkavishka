@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c12,40:0c1220,80:0d1f3c,100:071525&height=180&section=header&text=Sahil%20Kavishka&fontSize=52&fontColor=60a5fa&fontAlignY=58&desc=Data%20Scientist%20%7C%20Machine%20Learning%20Engineer&descAlignY=76&descSize=16&descColor=64748b&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:080c12,40:0c1220,80:0d1f3c,100:071525&height=180&section=header&text=Sahil%20Kavishka&fontSize=52&fontColor=60a5fa&fontAlignY=58&desc=Data%20Science%20Undergraduate%20%7C%20AI%20%E2%80%A2%20Machine%20Learning&descAlignY=76&descSize=16&descColor=64748b&animation=fadeIn" width="100%"/>
 
 <br/>
 
-<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Scientist+%7C+Machine+Learning+Engineer;Python+%C2%B7+Scikit-learn+%C2%B7+TensorFlow+%C2%B7+SQL;Predictive+Models+%C2%B7+Data+Mining+%C2%B7+Analytics;Turning+Raw+Data+Into+Decisions;Based+in+%F0%9F%87%B1%F0%9F%87%B0+Sri+Lanka&font=JetBrains+Mono&center=true&width=560&height=52&duration=3000&pause=900&color=60a5fa&size=14" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com/?lines=Data+Science+Undergraduate;Artificial+Intelligence+%C2%B7+Machine+Learning;NLP+%C2%B7+Deep+Learning+%C2%B7+Intelligent+Systems;Building+Data-Driven+Applications;Based+in+%F0%9F%87%B1%F0%9F%87%B0+Sri+Lanka&font=JetBrains+Mono&center=true&width=560&height=52&duration=3000&pause=900&color=60a5fa&size=14" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -16,7 +16,7 @@
 
 <br/>
 
-![Status](https://img.shields.io/badge/%E2%97%8F%20Available%20for%20Freelance-10b981?style=flat-square&labelColor=052e16)
+![Status](https://img.shields.io/badge/%E2%97%8F%20Available%20for%20Opportunities-10b981?style=flat-square&labelColor=052e16)
 ![Profile Views](https://komarev.com/ghpvc/?username=sahilkavishka&label=Profile+Views&color=3b82f6&style=flat-square)
 [![Followers](https://img.shields.io/github/followers/sahilkavishka?label=Followers&style=flat-square&color=3b82f6)](https://github.com/sahilkavishka)
 
@@ -26,19 +26,19 @@
 
 ## `about`
 
-I'm a **Data Scientist and Machine Learning Engineer** based in Anuradhapura, Sri Lanka, focused on turning raw, messy data into models, insights, and tools that hold up outside a notebook. My work spans predictive modeling, data mining, exploratory analysis, and building the applications that put those models in front of real users.
+I'm a **Data Science Undergraduate** based in Anuradhapura, Sri Lanka, focused on turning raw data into intelligent systems, actionable insights, and practical applications. My work spans machine learning, natural language processing (NLP), data analytics, and full-stack development to put models directly into the hands of users.
 
-I approach problems end-to-end — from cleaning and exploring a dataset, to building and validating a model, to shipping it as something usable. That range comes from a background that started in web development (Django, React) before I moved fully into data science and machine learning.
+I enjoy working end-to-end — from data extraction and exploratory analysis to training predictive models and deploying AI-powered solutions. Currently, I am expanding my expertise into Deep Learning, Computer Vision, and the intersection of AI with IoT and Robotics.
 
 ```js
 const sahil = {
-  role      : "Data Scientist · Machine Learning Engineer",
+  role      : "Data Science Undergraduate · AI & ML",
   location  : "Anuradhapura, Sri Lanka 🇱🇰",
-  focus     : ["Machine Learning", "Data Mining", "Predictive Modeling", "Exploratory Data Analysis"],
-  toolbelt  : ["Python", "Scikit-learn", "Pandas", "SQL"],
-  exploring : ["Deep Learning", "NLP", "Time-Series Forecasting", "MLOps"],
-  building  : "An ML-powered sports analytics platform + an open Sri Lankan sports dataset",
-  openTo    : "Freelance data science / ML projects & meaningful collaborations",
+  focus     : ["Machine Learning", "Data Science", "NLP", "Intelligent Systems"],
+  toolbelt  : ["Python", "Scikit-learn", "PyTorch", "Power BI", "FastAPI"],
+  exploring : ["Deep Learning", "Computer Vision", "IoT", "Robotics"],
+  building  : "SmartBuild AI - Construction Intelligence Platform",
+  openTo    : "AI/ML projects, internships & meaningful collaborations",
 };
 ```
 
@@ -46,40 +46,37 @@ const sahil = {
 
 ## `tech stack`
 
-**`Machine Learning & NLP`**
+**`AI, Machine Learning & NLP`**
 
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0c1220?style=flat-square&logo=scikit-learn&logoColor=f7931e)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-0c1220?style=flat-square&logo=tensorflow&logoColor=ff6f00)
 ![PyTorch](https://img.shields.io/badge/PyTorch-0c1220?style=flat-square&logo=pytorch&logoColor=ee4c2c)
-![NLTK](https://img.shields.io/badge/NLTK-0c1220?style=flat-square&logo=python&logoColor=3776ab)
-![spaCy](https://img.shields.io/badge/spaCy-0c1220?style=flat-square&logo=spacy&logoColor=09a3d5)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-0c1220?style=flat-square&logo=scikit-learn&logoColor=f7931e)
 ![Hugging Face](https://img.shields.io/badge/Hugging%20Face-0c1220?style=flat-square&logo=huggingface&logoColor=ffbf00)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-0c1220?style=flat-square&logo=tensorflow&logoColor=ff6f00)
+![spaCy](https://img.shields.io/badge/spaCy-0c1220?style=flat-square&logo=spacy&logoColor=09a3d5)
 ![XGBoost](https://img.shields.io/badge/XGBoost-0c1220?style=flat-square&logo=python&logoColor=0073b7)
 
 **`Data Analysis & Visualization`**
 
 ![Pandas](https://img.shields.io/badge/Pandas-0c1220?style=flat-square&logo=pandas&logoColor=150458)
 ![NumPy](https://img.shields.io/badge/NumPy-0c1220?style=flat-square&logo=numpy&logoColor=013243)
+![Power BI](https://img.shields.io/badge/Power_BI-0c1220?style=flat-square&logo=powerbi&logoColor=f2c811)
 ![Plotly](https://img.shields.io/badge/Plotly-0c1220?style=flat-square&logo=plotly&logoColor=3f4f75)
-![Tableau](https://img.shields.io/badge/Tableau-0c1220?style=flat-square&logo=tableau&logoColor=e97627)
 ![Jupyter](https://img.shields.io/badge/Jupyter-0c1220?style=flat-square&logo=jupyter&logoColor=f37626)
 
-**`Languages`**
+**`Languages & Frameworks`**
 
 ![Python](https://img.shields.io/badge/Python-0c1220?style=flat-square&logo=python&logoColor=3776ab)
-![R](https://img.shields.io/badge/R-0c1220?style=flat-square&logo=r&logoColor=276dc3)
 ![SQL](https://img.shields.io/badge/SQL-0c1220?style=flat-square&logo=postgresql&logoColor=4479a1)
-![Bash](https://img.shields.io/badge/Bash-0c1220?style=flat-square&logo=gnubash&logoColor=4eaa25)
+![FastAPI](https://img.shields.io/badge/FastAPI-0c1220?style=flat-square&logo=fastapi&logoColor=009688)
+![Django](https://img.shields.io/badge/Django-0c1220?style=flat-square&logo=django&logoColor=2ab255)
+![JavaScript](https://img.shields.io/badge/JavaScript-0c1220?style=flat-square&logo=javascript&logoColor=f7df1e)
 
 **`Data Engineering & Tooling`**
 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0c1220?style=flat-square&logo=postgresql&logoColor=4169e1)
 ![MySQL](https://img.shields.io/badge/MySQL-0c1220?style=flat-square&logo=mysql&logoColor=4479a1)
-![MongoDB](https://img.shields.io/badge/MongoDB-0c1220?style=flat-square&logo=mongodb&logoColor=47a248)
-![Docker](https://img.shields.io/badge/Docker-0c1220?style=flat-square&logo=docker&logoColor=2496ed)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0c1220?style=flat-square&logo=postgresql&logoColor=4169e1)
 ![Git](https://img.shields.io/badge/Git-0c1220?style=flat-square&logo=git&logoColor=f05032)
-![Django](https://img.shields.io/badge/Django-0c1220?style=flat-square&logo=django&logoColor=2ab255)
-![React](https://img.shields.io/badge/React-0c1220?style=flat-square&logo=react&logoColor=61dafb)
+![Docker](https://img.shields.io/badge/Docker-0c1220?style=flat-square&logo=docker&logoColor=2496ed)
 
 ---
 
@@ -89,69 +86,70 @@ const sahil = {
 <tr>
 <td width="50%" valign="top">
 
-### 🏆 Sports Tournaments System
+### 🏗️ SmartBuild AI Platform
 ![ACTIVE](https://img.shields.io/badge/ACTIVE-052e16?style=flat-square&labelColor=052e16&color=10b981)
 
-End-to-end tournament platform (Organizer / Player / Spectator roles) with fixture management, live scoring, leaderboards, and an ML match-prediction model exposed via REST API.
+AI-powered construction intelligence platform for the Sri Lankan residential market. Features computer vision for floor plans and predictive BOQ estimation.
 
-`Scikit-learn` `Python` `Django` `MySQL`
+`Python` `FastAPI` `Computer Vision` `AI`
 [`View Repo →`](https://github.com/sahilkavishka)
 
 </td>
 <td width="50%" valign="top">
 
-### ⛏️ Data Mining & Association Rule Mining
+### 🤖 AI Smartphone Review Insights
 ![COMPLETE](https://img.shields.io/badge/COMPLETE-0f1e36?style=flat-square&labelColor=0f1e36&color=3b82f6)
 
-End-to-end data mining pipeline: preprocessing, exploratory data analysis, and frequent pattern / association rule mining (Apriori) to surface hidden relationships in a dataset.
+End-to-end NLP system combining web scraping, traditional ML, and fine-tuned BERT models for sentiment analysis on Daraz.lk reviews via a Chrome extension.
 
-`Python` `Pandas` `Scikit-learn` `Mlxtend` `Seaborn`
-[`View Repo →`](https://github.com/sahilkavishka/data_mining_1)
+`Python` `BERT` `PyTorch` `NLP` `FastAPI`
+[`View Repo →`](https://github.com/sahilkavishka)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💼 Job Market Analysis
+### 🏥 Medicine Supply Chain Analysis
 ![COMPLETE](https://img.shields.io/badge/COMPLETE-0f1e36?style=flat-square&labelColor=0f1e36&color=3b82f6)
 
-Exploratory data analysis of job market data — uncovering trends, in-demand skills, and hiring patterns from structured job listing data.
+Data-driven analysis of Sri Lankan pharmaceutical imports (2020–2026). Included interactive Power BI dashboards and time-series forecasting.
 
-`Python` `Pandas` `Jupyter` `Data Visualization`
-[`View Repo →`](https://github.com/sahilkavishka/job_market)
+`Python` `Pandas` `Power BI` `Forecasting`
+[`View Repo →`](https://github.com/sahilkavishka)
 
 </td>
 <td width="50%" valign="top">
 
-### 🧳 Tourist Arrivals Prediction — Sri Lanka
+### 📈 Microsoft Stock Analysis
 ![COMPLETE](https://img.shields.io/badge/COMPLETE-0f1e36?style=flat-square&labelColor=0f1e36&color=3b82f6)
 
-Predictive modeling on historical Sri Lankan tourism data — data cleaning, feature engineering, and forecasting to support tourism planning insights.
+Probability and statistical analysis of 40 years of Microsoft stock data using Bayesian methods, Markov transitions, VaR, and Monte Carlo Simulations.
 
-`Python` `Pandas` `Scikit-learn` `Jupyter`
-[`View Repo →`](https://github.com/sahilkavishka/Tourist-Prediction-Sri-Lanka)
+`Python` `Statistics` `Probability` `Risk Analysis`
+[`View Repo →`](https://github.com/sahilkavishka)
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 📊 Math Quiz Analytics Dashboard
+### 🏏 Sports Manager Platform
 ![COMPLETE](https://img.shields.io/badge/COMPLETE-0f1e36?style=flat-square&labelColor=0f1e36&color=3b82f6)
 
-Interactive educator dashboard with cohort analysis, skill-gap detection, timed quizzes, and a dedicated leaderboard page.
+Full-stack web platform for sports tournament and team management with OTP authentication, roles, and relational database integration.
 
-`Plotly` `SQL` `Python` `HTML/CSS/JS`
+`Django` `MySQL` `JavaScript` `Bootstrap`
 
 </td>
 <td width="50%" valign="top">
 
-### 🔮 SL Sports Analytics *(planning)*
+### ⛏️ Data Mining & Association
+![COMPLETE](https://img.shields.io/badge/COMPLETE-0f1e36?style=flat-square&labelColor=0f1e36&color=3b82f6)
 
-Public Sri Lankan sports dataset with open prediction models and interactive visualizations — a resource for local sports tech & research.
+End-to-end data mining pipeline utilizing Apriori and association rule mining to discover hidden relationships in transactional datasets.
 
-`Python` `Pandas` `Plotly` `Open Data`
+`Python` `Pandas` `Scikit-learn` `Mlxtend`
 
 </td>
 </tr>
@@ -202,20 +200,19 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 
 ---
 
-## `2025 goals`
+## `2026-2027 roadmap`
 
 ```bash
 #!/bin/bash
-# 2025 roadmap
+# 2026-2027 roadmap & goals
 
 goals=(
-  "[ ] 01 · Earn a medal in a Kaggle competition"
-  "[ ] 02 · Ship 3 end-to-end ML projects to production"
-  "[ ] 03 · Earn Google Data Analytics or AWS ML Specialty cert"
-  "[ ] 04 · Publish technical write-ups on project decisions & learnings"
-  "[ ] 05 · Make meaningful open-source contributions"
-  "[ ] 06 · Build & publish Sri Lankan sports analytics dataset + open model"
-  "[ ] 07 · Go deeper into deep learning & time-series forecasting"
+  "[ ] 01 · Develop and launch MVP of SmartBuild AI"
+  "[ ] 02 · Expand expertise in Deep Learning & Computer Vision"
+  "[ ] 03 · Integrate fundamental IoT/Robotics concepts with ML models"
+  "[ ] 04 · Earn a medal in a Kaggle competition"
+  "[ ] 05 · Publish technical write-ups on NLP and time-series forecasting"
+  "[ ] 06 · Secure a data science/ML internship or freelance opportunities"
 )
 
 for goal in "${goals[@]}"; do echo "$goal"; done
@@ -226,7 +223,11 @@ for goal in "${goals[@]}"; do echo "$goal"; done
 ## `contribution snake`
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/sahilkavishka/sahilkavishka/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sahilkavishka/sahilkavishka/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sahilkavishka/sahilkavishka/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/sahilkavishka/sahilkavishka/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ---
@@ -235,7 +236,7 @@ for goal in "${goals[@]}"; do echo "$goal"; done
 
 ### Let's build something great together
 
-*Open to freelance, contracts, and meaningful collaborations*
+*Open to projects, internships, and meaningful collaborations*
 
 <br/>
 
