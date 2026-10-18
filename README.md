@@ -96,8 +96,8 @@ const sahil = {
 
 AI-powered construction intelligence platform for the Sri Lankan residential market. Features computer vision for floor plans and predictive BOQ estimation.
 
-`Python` `FastAPI` `Computer Vision` `AI`
-[`View Repo →`](https://github.com/sahilkavishka)
+`Python` `FastAPI` `Computer Vision` `AI`  
+[`View Repo →`](https://github.com/sahilkavishka/smartbuild_ai)
 
 </td>
 <td width="50%" valign="top">
@@ -107,12 +107,23 @@ AI-powered construction intelligence platform for the Sri Lankan residential mar
 
 End-to-end NLP system combining web scraping, traditional ML, and fine-tuned BERT models for sentiment analysis on Daraz.lk reviews via a Chrome extension.
 
-`Python` `BERT` `PyTorch` `NLP` `FastAPI`
-[`View Repo →`](https://github.com/sahilkavishka)
+`Python` `BERT` `PyTorch` `NLP` `FastAPI`  
+[`View Repo →`](https://github.com/sahilkavishka/mini-NLP-project)
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🌾 CropSafe AI Platform
+![COMPLETE](https://img.shields.io/badge/COMPLETE-0f1e36?style=flat-square&labelColor=0f1e36&color=3b82f6)
+
+National Fertilizer Quality Intelligence Platform using two-stage ML classification, Isolation Forest chemical anomaly detection & Streamlit.
+
+`Python` `Streamlit` `Scikit-Learn` `Anomaly Detection`  
+[`View Repo →`](https://github.com/sahilkavishka/CropSafe-AI)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🏥 Medicine Supply Chain Analysis
@@ -120,23 +131,23 @@ End-to-end NLP system combining web scraping, traditional ML, and fine-tuned BER
 
 Data-driven analysis of Sri Lankan pharmaceutical imports (2020–2026). Included interactive Power BI dashboards and time-series forecasting.
 
-`Python` `Pandas` `Power BI` `Forecasting`
-[`View Repo →`](https://github.com/sahilkavishka)
-
-</td>
-<td width="50%" valign="top">
-
-### 📈 Microsoft Stock Analysis
-![COMPLETE](https://img.shields.io/badge/COMPLETE-0f1e36?style=flat-square&labelColor=0f1e36&color=3b82f6)
-
-Probability and statistical analysis of 40 years of Microsoft stock data using Bayesian methods, Markov transitions, VaR, and Monte Carlo Simulations.
-
-`Python` `Statistics` `Probability` `Risk Analysis`
-[`View Repo →`](https://github.com/sahilkavishka)
+`Python` `Pandas` `Power BI` `Forecasting`  
+[`View Repo →`](https://github.com/sahilkavishka/SL_Medicine_Supply_Chain)
 
 </td>
 </tr>
 <tr>
+<td width="50%" valign="top">
+
+### 🌿 Ceylon Forecast (Tourism ML)
+![COMPLETE](https://img.shields.io/badge/COMPLETE-0f1e36?style=flat-square&labelColor=0f1e36&color=3b82f6)
+
+Predictive Machine Learning model & interactive Streamlit web dashboard for forecasting tourist arrivals into Sri Lanka across global source markets.
+
+`Python` `Streamlit` `Scikit-Learn` `TimeSeries`  
+[`View Repo →`](https://github.com/sahilkavishka/Tourist-Prediction-Sri-Lanka)
+
+</td>
 <td width="50%" valign="top">
 
 ### 🏏 Sports Manager Platform
@@ -144,17 +155,67 @@ Probability and statistical analysis of 40 years of Microsoft stock data using B
 
 Full-stack web platform for sports tournament and team management with OTP authentication, roles, and relational database integration.
 
-`Django` `MySQL` `JavaScript` `Bootstrap`
+`Django` `MySQL` `JavaScript` `Bootstrap`  
+[`View Repo →`](https://github.com/sahilkavishka/MatchPOINT)
+
+</td>
+</tr>
+</table>
+
+---
+
+## `collaborative & team projects` 🤝
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 codeXsabra-ResoveAI
+![HACKATHON](https://img.shields.io/badge/HACKATHON-Hutch%20AI%20Challenge-7c3aed?style=flat-square)
+![ROLE](https://img.shields.io/badge/ROLE-ML%20%26%20Backend%20Contributor-0ea5e9?style=flat-square)
+
+AI-driven telecom customer query triage and resolution platform engineered during the Hutch AI hackathon with NLP categorization and automated ticket routing.
+
+`Python` `NLP` `FastAPI` `Machine Learning`  
+[`View Shared Repo →`](https://github.com/kavishanimsara/codeXsabra-ResoveAI)
 
 </td>
 <td width="50%" valign="top">
 
-### ⛏️ Data Mining & Association
-![COMPLETE](https://img.shields.io/badge/COMPLETE-0f1e36?style=flat-square&labelColor=0f1e36&color=3b82f6)
+### ☁️ AWS Churn Predictor
+![CLOUD](https://img.shields.io/badge/CLOUD-AWS%20Cloud%20ML-f59e0b?style=flat-square)
+![ROLE](https://img.shields.io/badge/ROLE-ML%20%26%20Pipeline%20Developer-0ea5e9?style=flat-square)
 
-End-to-end data mining pipeline utilizing Apriori and association rule mining to discover hidden relationships in transactional datasets.
+Cloud-integrated customer churn prediction engine utilizing advanced feature engineering, tree-based ensemble models, and AWS deployment pipelines.
 
-`Python` `Pandas` `Scikit-learn` `Mlxtend`
+`Python` `AWS` `Scikit-Learn` `XGBoost` `Flask`  
+[`View Shared Repo →`](https://github.com/Dilharajay/churn_predictor)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏆 Zentrix — MoraSPCup
+![COMPETITION](https://img.shields.io/badge/COMPETITION-IEEE%20MoraSPCup-10b981?style=flat-square)
+![ROLE](https://img.shields.io/badge/ROLE-Signal%20%26%20ML%20Engineer-0ea5e9?style=flat-square)
+
+Signal processing and machine learning solution engineered for the MoraSPCup competitive algorithmic challenge organized by IEEE University of Moratuwa.
+
+`Python` `Signal Processing` `ML` `NumPy`  
+[`View Shared Repo →`](https://github.com/sahilkavishka/Zentrix-MoraSPCup)
+
+</td>
+<td width="50%" valign="top">
+
+### 🌿 Sinharaja Rainforest Intelligence
+![RESEARCH](https://img.shields.io/badge/CONSERVATION-Biodiversity%20AI-059669?style=flat-square)
+![ROLE](https://img.shields.io/badge/ROLE-Data%20Scientist-0ea5e9?style=flat-square)
+
+Collaborative environmental data analysis and biodiversity monitoring system focused on the Sinharaja rainforest biosphere reserve.
+
+`Python` `Data Analysis` `GIS` `Biodiversity`  
+[`View Shared Repo →`](https://github.com/sahilkavishka/sinharaja)
 
 </td>
 </tr>
@@ -162,7 +223,7 @@ End-to-end data mining pipeline utilizing Apriori and association rule mining to
 
 <div align="center">
 
-📌 *More projects and notebooks on [GitHub](https://github.com/sahilkavishka?tab=repositories) and [Kaggle](https://www.kaggle.com/sahilkavishkakumara).*
+📌 *More projects, notebooks and datasets on [GitHub](https://github.com/sahilkavishka?tab=repositories) and [Kaggle](https://www.kaggle.com/sahilkavishkakumara).*
 
 </div>
 
