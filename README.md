@@ -9,25 +9,27 @@
 
 <br/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=80&lines=%F0%9F%A7%A0+Data+Science+%7C+AI+%7C+Machine+Learning;%F0%9F%94%AC+From+Raw+Data+to+Intelligent+Systems" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=00D2FF&center=true&vCenter=true&multiline=true&repeat=true&width=620&height=80&lines=%F0%9F%A7%A0+Data+Science+%7C+AI+%7C+Machine+Learning;%F0%9F%94%AC+From+Raw+Data+to+Intelligent+Systems;%F0%9F%9A%80+End-to-End+ML+Pipelines+%26+Full-Stack+AI" alt="Typing SVG" /></a>
 
 <br/>
 
 <!-- ────────── SOCIAL BADGES ────────── -->
 
-<a href="https://sahilkavishka.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/sahilkavishka/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>&nbsp;
-<a href="https://www.kaggle.com/sahilkavishkakumara"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/></a>&nbsp;
-<a href="mailto:sahilkavishka428@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>&nbsp;
-<a href="https://github.com/sahilkavishka"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+<a href="https://sahilkavishka.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/sahilkavishka/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+<a href="https://www.kaggle.com/sahilkavishkakumara"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle"/></a>&nbsp;
+<a href="mailto:sahilkavishka428@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>&nbsp;
+<a href="https://github.com/sahilkavishka"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/◉%20Open%20to%20Internships%20%26%20Collaborations-00d2ff?style=flat-square&labelColor=0a0a0a"/>
+<!-- ────────── STATUS & VISITOR BADGES (PURE HTML TO PREVENT RENDERING BUGS) ────────── -->
+
+<img src="https://img.shields.io/badge/◉%20Open%20to%20Opportunities-00d2ff?style=flat-square&labelColor=0a0a0a" alt="Status" />
 &nbsp;
-![Profile Views](https://komarev.com/ghpvc/?username=sahilkavishka&label=Visitors&color=7928ca&style=flat-square)
+<img src="https://komarev.com/ghpvc/?username=sahilkavishka&label=Profile%20Views&color=7928ca&style=flat-square" alt="Visitors" />
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/sahilkavishka?logo=GitHub&style=flat-square&color=ff0080&labelColor=0a0a0a)](https://github.com/sahilkavishka)
+<a href="https://github.com/sahilkavishka"><img src="https://img.shields.io/github/followers/sahilkavishka?label=Followers&logo=github&style=flat-square&color=ff0080&labelColor=0a0a0a" alt="Followers" /></a>
 
 </div>
 
@@ -41,23 +43,24 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilkavishka&layout=compact&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d2ff&text_color=c9d1d9&langs_count=6&card_width=300" width="330"/>
 
-```js
-╔══════════════════════════════════════════════╗
-║              SAHIL KAVISHKA                  ║
-║     Data Science Undergraduate · AI/ML       ║
-╚══════════════════════════════════════════════╝
+```python
+"""
+Profile · Sahil Kavishka
+Data Science Undergraduate | AI & ML Engineer
+"""
 
-🎓  BSc Data Science · Sabaragamuwa University
-📍  Anuradhapura, Sri Lanka 🇱🇰
-
-🔬  Machine Learning · NLP · Deep Learning
-🧠  Computer Vision · Anomaly Detection
-🌐  Full-Stack AI Application Development
-📊  Data Analytics · Power BI · Forecasting
-
-🏗️  Building: SmartBuild AI Platform
-🎯  Goal: End-to-End ML Solutions
-🤝  Open: Internships & Collaborations
+about = {
+    "education"  : "BSc in Data Science · Sabaragamuwa University of Sri Lanka",
+    "location"   : "Anuradhapura, Sri Lanka 🇱🇰",
+    "core_focus" : [
+        "Machine Learning Pipelines & Statistical Modeling",
+        "Natural Language Processing (Transformers, BERT)",
+        "Computer Vision (YOLOv8, Defect Detection)",
+        "Full-Stack AI Application Engineering (FastAPI, React, Django)",
+    ],
+    "flagship"   : "SmartBuild AI — Construction Intelligence Platform",
+    "status"     : "Active & Open for AI/ML Internships & Collaborations 🚀",
+}
 ```
 
 <br clear="both"/>
@@ -72,27 +75,30 @@
 
 <div align="center">
 
-#### 🧠 AI / Machine Learning / NLP
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn&theme=dark" height="45"/>
-&nbsp;&nbsp;
-![Hugging Face](https://img.shields.io/badge/🤗%20Transformers-0d1117?style=for-the-badge)
-![XGBoost](https://img.shields.io/badge/XGBoost-0d1117?style=for-the-badge&logo=python&logoColor=0073b7)
-![spaCy](https://img.shields.io/badge/spaCy-0d1117?style=for-the-badge&logo=spacy&logoColor=09a3d5)
+### 💻 Languages & Frameworks
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,fastapi,django,flask,react,js,php,html,css,bootstrap&theme=dark" alt="Languages & Frameworks" height="48" />
+</p>
 
-#### 📊 Data Science / Analytics
-<img src="https://skillicons.dev/icons?i=anaconda&theme=dark" height="45"/>
-&nbsp;&nbsp;
-![Pandas](https://img.shields.io/badge/Pandas-0d1117?style=for-the-badge&logo=pandas&logoColor=150458)
-![NumPy](https://img.shields.io/badge/NumPy-0d1117?style=for-the-badge&logo=numpy&logoColor=4DABCF)
-![Jupyter](https://img.shields.io/badge/Jupyter-0d1117?style=for-the-badge&logo=jupyter&logoColor=f37626)
-![Power BI](https://img.shields.io/badge/Power_BI-0d1117?style=for-the-badge&logo=powerbi&logoColor=f2c811)
-![Streamlit](https://img.shields.io/badge/Streamlit-0d1117?style=for-the-badge&logo=streamlit&logoColor=ff4b4b)
+### 🗄️ Databases, Cloud & DevOps
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,git,github,linux,vscode,postman&theme=dark" alt="Databases & DevOps" height="48" />
+</p>
 
-#### 🌐 Web Development
-<img src="https://skillicons.dev/icons?i=django,fastapi,react,flask,php,js,html,css,bootstrap&theme=dark" height="45"/>
-
-#### 🗄️ Databases & DevOps
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite,docker,git,github,linux,vscode&theme=dark" height="45"/>
+### 🧠 Data Science, Analytics & Specialized AI
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />&nbsp;
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />&nbsp;
+  <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />&nbsp;
+  <img src="https://img.shields.io/badge/XGBoost-1199EE?style=for-the-badge&logo=python&logoColor=white" alt="XGBoost" />&nbsp;
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=for-the-badge&logo=spacy&logoColor=white" alt="spaCy" />
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI" />&nbsp;
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />&nbsp;
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />&nbsp;
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" alt="OpenCV" />&nbsp;
+  <img src="https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly" />
+</p>
 
 </div>
 
@@ -106,7 +112,7 @@
 
 <div align="center">
 
-> *Production-grade AI/ML systems, full-stack platforms, and data-driven applications*
+> *Production-grade AI/ML systems, full-stack architectures, and high-impact data analytics*
 
 </div>
 
@@ -120,21 +126,19 @@
 <h3 align="center">🏗️ SmartBuild AI</h3>
 
 <div align="center">
-
-![](https://img.shields.io/badge/🔴%20ACTIVELY%20BUILDING-ff3860?style=for-the-badge&labelColor=0d1117)
-
+  <img src="https://img.shields.io/badge/🔴%20ACTIVELY%20BUILDING-ff3860?style=for-the-badge&labelColor=0d1117" alt="Building" />
 </div>
 
-AI-powered **construction intelligence** platform for the Sri Lankan residential market. Integrates **YOLOv8** computer vision for architectural floor plan analysis with predictive Bill of Quantities (BOQ) estimation engine.
+<br/>
 
-**`🔑 Key:`** *Computer Vision · Object Detection · Cost Prediction · REST API*
+AI-powered **construction intelligence** platform engineered for the Sri Lankan residential market. Integrates **YOLOv8** computer vision for architectural floor plan object detection with a predictive Bill of Quantities (BOQ) cost estimation engine.
+
+- **`Core Stack:`** Python · FastAPI · YOLOv8 · Computer Vision · PyTorch
+- **`Impact:`** Automated room recognition, dimension scaling, and material pricing estimation
 
 <div align="center">
-
-`Python` `FastAPI` `YOLOv8` `Deep Learning` `Computer Vision`
-
-<a href="https://github.com/sahilkavishka/smartbuild_ai"><img src="https://img.shields.io/badge/→%20Source%20Code-7928ca?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
-
+  <br/>
+  <a href="https://github.com/sahilkavishka/smartbuild_ai"><img src="https://img.shields.io/badge/→%20Explore%20Repository-7928ca?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo"/></a>
 </div>
 
 </td>
@@ -143,21 +147,19 @@ AI-powered **construction intelligence** platform for the Sri Lankan residential
 <h3 align="center">🤖 Daraz NLP Sentiment Engine</h3>
 
 <div align="center">
-
-![](https://img.shields.io/badge/✅%20COMPLETE-00d2ff?style=for-the-badge&labelColor=0d1117)
-
+  <img src="https://img.shields.io/badge/✅%20PRODUCTION%20READY-00d2ff?style=for-the-badge&labelColor=0d1117" alt="Completed" />
 </div>
 
-End-to-end **NLP sentiment analysis** pipeline on Daraz.lk smartphone reviews: automated web scraping → traditional ML baselines → **fine-tuned BERT transformer** → live **Chrome browser extension** for real-time inference.
+<br/>
 
-**`🔑 Key:`** *BERT Fine-tuning · Web Scraping · Chrome Extension · API Deployment*
+End-to-end **NLP sentiment analysis** ecosystem for Daraz.lk smartphone reviews: automated e-commerce web scraping → baseline ML models → **fine-tuned BERT transformer** → live **Google Chrome browser extension** delivering real-time sentiment scoring on product pages.
+
+- **`Core Stack:`** Python · PyTorch · Transformers (BERT) · FastAPI · Chrome API
+- **`Impact:`** Instant review breakdown, fake review filtering, and consumer confidence metrics
 
 <div align="center">
-
-`Python` `PyTorch` `BERT` `NLP` `FastAPI` `Chrome Extension`
-
-<a href="https://github.com/sahilkavishka/mini-NLP-project"><img src="https://img.shields.io/badge/→%20Source%20Code-7928ca?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
-
+  <br/>
+  <a href="https://github.com/sahilkavishka/mini-NLP-project"><img src="https://img.shields.io/badge/→%20Explore%20Repository-7928ca?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo"/></a>
 </div>
 
 </td>
@@ -172,21 +174,19 @@ End-to-end **NLP sentiment analysis** pipeline on Daraz.lk smartphone reviews: a
 <h3 align="center">🌾 CropSafe AI Platform</h3>
 
 <div align="center">
-
-![](https://img.shields.io/badge/✅%20COMPLETE-00d2ff?style=for-the-badge&labelColor=0d1117)
-
+  <img src="https://img.shields.io/badge/✅%20PRODUCTION%20READY-00d2ff?style=for-the-badge&labelColor=0d1117" alt="Completed" />
 </div>
 
-National **Fertilizer Quality Intelligence** system: two-stage ML classification pipeline with **Isolation Forest** chemical anomaly detection and yield loss regression. Interactive Streamlit dashboard for agricultural decision-makers.
+<br/>
 
-**`🔑 Key:`** *Anomaly Detection · Multi-stage Classification · Agricultural AI*
+National **Fertilizer Quality Intelligence & Yield Loss Predictor**: two-stage ML classification pipeline integrating **Isolation Forest** chemical anomaly detection and regression models to calculate expected crop yield loss.
+
+- **`Core Stack:`** Python · Streamlit · Scikit-Learn · Isolation Forest · Joblib
+- **`Impact:`** Helps agricultural inspectors detect counterfeit fertilizers and protect farm yields
 
 <div align="center">
-
-`Python` `Streamlit` `Scikit-Learn` `Isolation Forest`
-
-<a href="https://github.com/sahilkavishka/CropSafe-AI"><img src="https://img.shields.io/badge/→%20Source%20Code-7928ca?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
-
+  <br/>
+  <a href="https://github.com/sahilkavishka/CropSafe-AI"><img src="https://img.shields.io/badge/→%20Explore%20Repository-7928ca?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo"/></a>
 </div>
 
 </td>
@@ -195,21 +195,19 @@ National **Fertilizer Quality Intelligence** system: two-stage ML classification
 <h3 align="center">💼 SL Tech Job Market & Salary Predictor</h3>
 
 <div align="center">
-
-![](https://img.shields.io/badge/✅%20COMPLETE-00d2ff?style=for-the-badge&labelColor=0d1117)
-
+  <img src="https://img.shields.io/badge/✅%20PRODUCTION%20READY-00d2ff?style=for-the-badge&labelColor=0d1117" alt="Completed" />
 </div>
 
-Sri Lanka IT industry **job market analytics** engine: automated web scraping of job portals → exploratory analysis → **salary regression models** → deployed as interactive Streamlit application with real-time predictions.
+<br/>
 
-**`🔑 Key:`** *Web Scraping · Salary Prediction · EDA · ML Deployment*
+Sri Lanka IT industry **job market intelligence & salary predictor**: automated scraping of top job boards → deep exploratory analysis of skills and hiring trends → **salary regression models** → interactive Streamlit web dashboard.
+
+- **`Core Stack:`** Python · Scikit-Learn · Streamlit · BeautifulSoup · Pandas
+- **`Impact:`** Real-time salary benchmark prediction based on role, stack, and experience
 
 <div align="center">
-
-`Python` `Scikit-Learn` `Streamlit` `BeautifulSoup`
-
-<a href="https://github.com/sahilkavishka/job_market"><img src="https://img.shields.io/badge/→%20Source%20Code-7928ca?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
-
+  <br/>
+  <a href="https://github.com/sahilkavishka/job_market"><img src="https://img.shields.io/badge/→%20Explore%20Repository-7928ca?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo"/></a>
 </div>
 
 </td>
@@ -224,21 +222,19 @@ Sri Lanka IT industry **job market analytics** engine: automated web scraping of
 <h3 align="center">🏥 Pharma Supply Chain Analytics</h3>
 
 <div align="center">
-
-![](https://img.shields.io/badge/✅%20COMPLETE-00d2ff?style=for-the-badge&labelColor=0d1117)
-
+  <img src="https://img.shields.io/badge/✅%20PRODUCTION%20READY-00d2ff?style=for-the-badge&labelColor=0d1117" alt="Completed" />
 </div>
 
-Data-driven deep-dive into Sri Lanka's **pharmaceutical import pipeline** (2020–2026). Built interactive **Power BI dashboards** with time-series forecasting models to identify supply chain bottlenecks and predict future demand trends.
+<br/>
 
-**`🔑 Key:`** *Supply Chain · Power BI Dashboards · Time-Series Forecasting*
+Data-driven diagnostic of Sri Lanka's **pharmaceutical imports** (2020–2026). Combines data cleaning pipelines, interactive **Power BI analytical dashboards**, and time-series forecasting models to identify supply shortages.
+
+- **`Core Stack:`** Python · Pandas · Power BI · Time-Series Forecasting · DAX
+- **`Impact:`** Critical supply gap detection, vendor import volume tracking, and future demand forecasts
 
 <div align="center">
-
-`Python` `Pandas` `Power BI` `Time-Series`
-
-<a href="https://github.com/sahilkavishka/SL_Medicine_Supply_Chain"><img src="https://img.shields.io/badge/→%20Source%20Code-7928ca?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
-
+  <br/>
+  <a href="https://github.com/sahilkavishka/SL_Medicine_Supply_Chain"><img src="https://img.shields.io/badge/→%20Explore%20Repository-7928ca?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo"/></a>
 </div>
 
 </td>
@@ -247,21 +243,19 @@ Data-driven deep-dive into Sri Lanka's **pharmaceutical import pipeline** (2020�
 <h3 align="center">🌿 Ceylon Forecast — Tourism ML</h3>
 
 <div align="center">
-
-![](https://img.shields.io/badge/✅%20COMPLETE-00d2ff?style=for-the-badge&labelColor=0d1117)
-
+  <img src="https://img.shields.io/badge/✅%20PRODUCTION%20READY-00d2ff?style=for-the-badge&labelColor=0d1117" alt="Completed" />
 </div>
 
-Predictive ML web dashboard forecasting **tourist arrivals into Sri Lanka** across 20+ global source markets. Compares multiple regression and time-series models with interactive visualizations on Streamlit.
+<br/>
 
-**`🔑 Key:`** *Tourism Forecasting · Multi-model Comparison · Streamlit App*
+Predictive machine learning application forecasting **monthly tourist arrivals into Sri Lanka** across 20+ key source markets. Features model evaluation suites (Linear Regression, Random Forest, ARIMA) and scenario simulations.
+
+- **`Core Stack:`** Python · Streamlit · Scikit-Learn · Plotly · Time-Series
+- **`Impact:`** Market-specific arrival projections and seasonal tourism pattern analysis
 
 <div align="center">
-
-`Python` `Streamlit` `Scikit-Learn` `Time-Series`
-
-<a href="https://github.com/sahilkavishka/Tourist-Prediction-Sri-Lanka"><img src="https://img.shields.io/badge/→%20Source%20Code-7928ca?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
-
+  <br/>
+  <a href="https://github.com/sahilkavishka/Tourist-Prediction-Sri-Lanka"><img src="https://img.shields.io/badge/→%20Explore%20Repository-7928ca?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo"/></a>
 </div>
 
 </td>
@@ -276,55 +270,51 @@ Predictive ML web dashboard forecasting **tourist arrivals into Sri Lanka** acro
 <h3 align="center">🏏 ICC Champions Trophy Analytics</h3>
 
 <div align="center">
-
-![](https://img.shields.io/badge/✅%20COMPLETE-00d2ff?style=for-the-badge&labelColor=0d1117)
-
+  <img src="https://img.shields.io/badge/✅%20PRODUCTION%20READY-00d2ff?style=for-the-badge&labelColor=0d1117" alt="Completed" />
 </div>
 
-Historical cricket match data analytics with **PCA dimensionality reduction**, **K-Means clustering** for team profiling, **Random Forest** win prediction, and **SHAP explainability** for interpreting match outcome drivers.
+<br/>
 
-**`🔑 Key:`** *PCA · K-Means · Random Forest · SHAP Explainability*
+Historical tournament cricket match analytics leveraging **PCA dimensionality reduction**, **K-Means clustering** for team tactical profiling, **Random Forest win prediction**, and **SHAP explainability** to determine winning match factors.
+
+- **`Core Stack:`** Python · Scikit-Learn · SHAP · PCA · K-Means · Matplotlib
+- **`Impact:`** Explainable AI breakdown of toss decisions, venue bias, and run-rate leverage
 
 <div align="center">
-
-`Python` `Scikit-Learn` `SHAP` `Matplotlib`
-
-<a href="https://github.com/sahilkavishka/icc_champions_dataset"><img src="https://img.shields.io/badge/→%20Source%20Code-7928ca?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
-
+  <br/>
+  <a href="https://github.com/sahilkavishka/icc_champions_dataset"><img src="https://img.shields.io/badge/→%20Explore%20Repository-7928ca?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo"/></a>
 </div>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">⛏️ Market Basket Analysis</h3>
+<h3 align="center">⛏️ Market Basket & Association Mining</h3>
 
 <div align="center">
-
-![](https://img.shields.io/badge/✅%20COMPLETE-00d2ff?style=for-the-badge&labelColor=0d1117)
-
+  <img src="https://img.shields.io/badge/✅%20PRODUCTION%20READY-00d2ff?style=for-the-badge&labelColor=0d1117" alt="Completed" />
 </div>
 
-Classical data mining project implementing the **Apriori algorithm** for extracting frequent itemsets and **association rules** from transactional retail data. Includes confidence, support, and lift metric analysis with visual rule networks.
+<br/>
 
-**`🔑 Key:`** *Apriori Algorithm · Association Rules · Data Mining*
+Algorithmic retail data mining project applying the **Apriori algorithm** to identify frequent product co-purchases and generate high-lift **association rules** with interactive network graph visualizations.
+
+- **`Core Stack:`** Python · mlxtend · Pandas · Matplotlib · Network Analysis
+- **`Impact:`** Retail cross-selling rule extraction, support/confidence threshold optimization
 
 <div align="center">
-
-`Python` `mlxtend` `Pandas` `Matplotlib`
-
-<a href="https://github.com/sahilkavishka/data_mining_1"><img src="https://img.shields.io/badge/→%20Source%20Code-7928ca?style=for-the-badge&logo=github&logoColor=white" height="28"/></a>
-
+  <br/>
+  <a href="https://github.com/sahilkavishka/data_mining_1"><img src="https://img.shields.io/badge/→%20Explore%20Repository-7928ca?style=for-the-badge&logo=github&logoColor=white" height="28" alt="GitHub Repo"/></a>
 </div>
 
 </td>
 </tr>
 </table>
 
-<!-- ── ROW 5: FULL-STACK ────────────────────────────────────────────── -->
+<!-- ── ROW 5: FULL-STACK PROJECTS ───────────────────────────────────── -->
 
 <div align="center">
 
-### ⚙️ Full-Stack Engineering Projects
+### ⚙️ Full-Stack Engineering & Game Development
 
 </div>
 
@@ -332,23 +322,18 @@ Classical data mining project implementing the **Apriori algorithm** for extract
 <tr>
 <td width="33%" valign="top">
 
-<h4 align="center">🎮 Sinharaja RPG</h4>
+<h4 align="center">🎮 Sinharaja RPG Game</h4>
 
 <div align="center">
-
-![](https://img.shields.io/badge/Game_Dev-ff0080?style=flat-square)
-
+  <img src="https://img.shields.io/badge/Solo_RPG-ff0080?style=flat-square" alt="Game Dev" />
 </div>
 
-Interactive **survival adventure RPG** set in Sinharaja rainforest. 30+ branching story nodes, Health & Sanity vitals, inventory system, and quick-time events with atmospheric audio.
+<br/>
 
-`React` `Django` `DRF` `SQLite`
+Interactive **visual novel survival adventure RPG** set in Sinharaja rainforest. 30+ branching scene nodes, Health & Sanity vitals, inventory item requirements, quick-time events, and UNESCO biodiversity field guide lore.
 
-<div align="center">
-
-[`View →`](https://github.com/sahilkavishka/sinharaja)
-
-</div>
+- **`Stack:`** React · Django DRF · SQLite · Web Audio
+- **`Repo:`** [`sahilkavishka/sinharaja`](https://github.com/sahilkavishka/sinharaja)
 
 </td>
 <td width="33%" valign="top">
@@ -356,41 +341,31 @@ Interactive **survival adventure RPG** set in Sinharaja rainforest. 30+ branchin
 <h4 align="center">💇 Salonora Platform</h4>
 
 <div align="center">
-
-![](https://img.shields.io/badge/Web_App-00d2ff?style=flat-square)
-
+  <img src="https://img.shields.io/badge/Web_App-00d2ff?style=flat-square" alt="Web App" />
 </div>
 
-Salon appointment **booking & management** with Leaflet.js maps, collision-free scheduling, CSRF protection, race condition prevention, and role-based dashboards.
+<br/>
 
-`PHP` `MySQL` `Bootstrap` `Leaflet.js`
+Enterprise salon booking & scheduling web platform featuring **OpenStreetMap (Leaflet.js)** integration, collision-free slot booking, CSRF defense, and multi-role owner dashboards.
 
-<div align="center">
-
-[`View →`](https://github.com/sahilkavishka/salon)
-
-</div>
+- **`Stack:`** PHP 8 · MySQL · Bootstrap 5 · Leaflet.js
+- **`Repo:`** [`sahilkavishka/salon`](https://github.com/sahilkavishka/salon)
 
 </td>
 <td width="33%" valign="top">
 
-<h4 align="center">🏏 MatchPOINT</h4>
+<h4 align="center">🏏 MatchPOINT Manager</h4>
 
 <div align="center">
-
-![](https://img.shields.io/badge/Full_Stack-7928ca?style=flat-square)
-
+  <img src="https://img.shields.io/badge/Full_Stack-7928ca?style=flat-square" alt="Full Stack" />
 </div>
 
-Sports **tournament & team management** platform with OTP authentication, role-based access control, and relational database design.
+<br/>
 
-`Django` `MySQL` `JavaScript` `Bootstrap`
+Full-stack sports tournament and squad management platform featuring OTP email authentication, role-based access control, match scheduling, and relational database management.
 
-<div align="center">
-
-[`View →`](https://github.com/sahilkavishka/MatchPOINT)
-
-</div>
+- **`Stack:`** Django · MySQL · JavaScript · Bootstrap
+- **`Repo:`** [`sahilkavishka/MatchPOINT`](https://github.com/sahilkavishka/MatchPOINT)
 
 </td>
 </tr>
@@ -402,47 +377,74 @@ Sports **tournament & team management** platform with OTP authentication, role-b
 <!-- ║                  COLLABORATIVE PROJECTS                             ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════════════╝ -->
 
-## 🤝 &nbsp;`team & collaborative work`
+## 🤝 &nbsp;`collaborative & team initiatives`
 
 <table>
 <tr>
 <td width="33%" valign="top">
 
-<h4 align="center">📡 ResoveAI</h4>
+<h4 align="center">📡 codeXsabra — ResoveAI</h4>
 
-![](https://img.shields.io/badge/Hutch%20AI%20Hackathon-7928ca?style=flat-square)
+<div align="center">
+  <img src="https://img.shields.io/badge/Hutch%20AI%20Challenge-7928ca?style=flat-square" alt="Hackathon" />
+  <br/>
+  <img src="https://img.shields.io/badge/Role-ML%20%26%20Backend-0ea5e9?style=flat-square" alt="Role" />
+</div>
 
-AI telecom query triage with **NLP categorization** & ticket routing
+<br/>
 
-`Python` `NLP` `FastAPI`
+AI-driven customer query triage and automated ticket routing platform built during the nationwide Hutch AI Hackathon.
 
-[`codeXsabra-ResoveAI →`](https://github.com/kavishanimsara/codeXsabra-ResoveAI)
+`Python` `NLP` `FastAPI` `Machine Learning`
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/kavishanimsara/codeXsabra-ResoveAI"><b>Explore Shared Repo →</b></a>
+</div>
 
 </td>
 <td width="33%" valign="top">
 
 <h4 align="center">☁️ AWS Churn Predictor</h4>
 
-![](https://img.shields.io/badge/AWS%20Cloud%20ML-f59e0b?style=flat-square)
+<div align="center">
+  <img src="https://img.shields.io/badge/AWS%20Cloud%20ML-f59e0b?style=flat-square" alt="Cloud ML" />
+  <br/>
+  <img src="https://img.shields.io/badge/Role-ML%20%26%20Pipelines-0ea5e9?style=flat-square" alt="Role" />
+</div>
 
-Customer churn prediction with **XGBoost ensembles** & AWS pipelines
+<br/>
 
-`Python` `AWS` `XGBoost` `Flask`
+Cloud customer churn prediction engine utilizing advanced feature engineering, tree-based XGBoost ensembles, and AWS pipelines.
 
-[`churn_predictor →`](https://github.com/Dilharajay/churn_predictor)
+`Python` `AWS` `XGBoost` `Flask` `Scikit-Learn`
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/Dilharajay/churn_predictor"><b>Explore Shared Repo →</b></a>
+</div>
 
 </td>
 <td width="33%" valign="top">
 
 <h4 align="center">🏆 Zentrix — MoraSPCup</h4>
 
-![](https://img.shields.io/badge/IEEE%20Competition-10b981?style=flat-square)
+<div align="center">
+  <img src="https://img.shields.io/badge/IEEE%20MoraSPCup-10b981?style=flat-square" alt="Competition" />
+  <br/>
+  <img src="https://img.shields.io/badge/Role-Signal%20%26%20ML-0ea5e9?style=flat-square" alt="Role" />
+</div>
 
-Signal processing & ML for **IEEE University of Moratuwa** challenge
+<br/>
 
-`Python` `Signal Processing` `ML`
+Competitive signal processing and machine learning solution engineered for the MoraSPCup algorithmic challenge (IEEE Moratuwa).
 
-[`Zentrix-MoraSPCup →`](https://github.com/sahilkavishka/Zentrix-MoraSPCup)
+`Python` `Signal Processing` `ML` `NumPy`
+
+<div align="center">
+  <br/>
+  <a href="https://github.com/sahilkavishka/Zentrix-MoraSPCup"><b>Explore Shared Repo →</b></a>
+</div>
 
 </td>
 </tr>
@@ -450,7 +452,7 @@ Signal processing & ML for **IEEE University of Moratuwa** challenge
 
 <div align="center">
 
-📌 *Explore more on [GitHub Repositories](https://github.com/sahilkavishka?tab=repositories) · [Kaggle Notebooks](https://www.kaggle.com/sahilkavishkakumara)*
+📌 *Discover additional repositories, code notebooks & datasets on [GitHub Repositories](https://github.com/sahilkavishka?tab=repositories) · [Kaggle](https://www.kaggle.com/sahilkavishkakumara)*
 
 </div>
 
@@ -464,8 +466,8 @@ Signal processing & ML for **IEEE University of Moratuwa** challenge
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilkavishka&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=ff0080&text_color=c9d1d9&ring_color=7928ca" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkavishka&theme=radical&hide_border=true&background=0d1117&stroke=0d1117&fire=ff0080&sideNums=00d2ff&currStreakNum=ff0080&ring=7928ca&sideLabels=00d2ff&currStreakLabel=7928ca&dates=4b5563" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=sahilkavishka&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117&title_color=00d2ff&icon_color=ff0080&text_color=c9d1d9&ring_color=7928ca" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=sahilkavishka&theme=radical&hide_border=true&background=0d1117&stroke=0d1117&fire=ff0080&sideNums=00d2ff&currStreakNum=ff0080&ring=7928ca&sideLabels=00d2ff&currStreakLabel=7928ca&dates=4b5563" alt="Streak Stats" />
 
 </div>
 
@@ -473,49 +475,49 @@ Signal processing & ML for **IEEE University of Moratuwa** challenge
 
 <div align="center">
 
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkavishka&bg_color=0d1117&color=00d2ff&line=7928ca&point=ff0080&area=true&area_color=7928ca&hide_border=true&custom_title=Contribution%20Activity%20Timeline" />
+<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=sahilkavishka&bg_color=0d1117&color=00d2ff&line=7928ca&point=ff0080&area=true&area_color=7928ca&hide_border=true&custom_title=Contribution%20Activity%20Timeline" alt="Activity Graph" />
 
 </div>
 
 ---
 
-## 🏆 &nbsp;`achievements`
+## 🏆 &nbsp;`achievements & trophies`
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=sahilkavishka&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="95%"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sahilkavishka&theme=radical&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="98%" alt="Trophies"/>
 
 </div>
 
 ---
 
-## ⌨️ &nbsp;`weekly dev breakdown`
+## ⌨️ &nbsp;`weekly developer activity`
 
 <!--START_SECTION:waka-->
 ```text
-Python       ████████████░░░░░░░░░░░░░   42.1%  ██ AI/ML, Scipting, Automation
-Jupyter      ███████░░░░░░░░░░░░░░░░░░   26.7%  ██ Data Analysis, Notebooks
-SQL          ████░░░░░░░░░░░░░░░░░░░░░   15.4%  █  Databases, Queries
-JavaScript   ██░░░░░░░░░░░░░░░░░░░░░░░    8.9%  █  Frontend, React
-Other        ██░░░░░░░░░░░░░░░░░░░░░░░    6.9%  █  Shell, YAML, Config
+Python       ████████████░░░░░░░░░░░░░   42.1%  ██ AI, Machine Learning, Automation
+Jupyter      ███████░░░░░░░░░░░░░░░░░░   26.7%  ██ Exploratory Analysis, Modeling
+SQL          ████░░░░░░░░░░░░░░░░░░░░░   15.4%  █  Database Queries, Schema Design
+JavaScript   ██░░░░░░░░░░░░░░░░░░░░░░░    8.9%  █  React SPA, Full-Stack Frontend
+Other        ██░░░░░░░░░░░░░░░░░░░░░░░    6.9%  █  Shell Scripting, Docker, Configs
 ```
 <!--END_SECTION:waka-->
 
 ---
 
-## 🗺️ &nbsp;`2026–2027 roadmap`
+## 🗺️ &nbsp;`2026–2027 strategic roadmap`
 
 ```
-┌─────────────────────────────────────────────────────────────┐
-│                    GOALS & MILESTONES                       │
-├──────┬──────────────────────────────────────────────────────┤
-│  🏗️  │  Launch SmartBuild AI MVP                           │
-│  🧠  │  Master Deep Learning & Computer Vision             │
-│  🤖  │  Build IoT × AI integrated prototypes               │
-│  🥇  │  Earn a medal in a Kaggle competition               │
-│  📝  │  Publish articles on NLP & time-series forecasting  │
-│  💼  │  Land a Data Science / ML internship                │
-└──────┴──────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────────────────────────────────┐
+│                         GOALS & MILESTONES                             │
+├──────┬─────────────────────────────────────────────────────────────────┤
+│  🏗️  │  Launch SmartBuild AI Platform MVP with YOLOv8 floor plan CV    │
+│  🧠  │  Advance into Deep Learning & Vision Transformers architectures  │
+│  🤖  │  Engineer integrated AI × IoT / Robotics prototype solutions   │
+│  🥇  │  Earn a medal in a competitive Kaggle Data Science challenge    │
+│  📝  │  Publish in-depth articles on NLP transformers & time-series     │
+│  💼  │  Secure an impactful Data Science / AI Machine Learning role   │
+└──────┴─────────────────────────────────────────────────────────────────┘
 ```
 
 ---
@@ -540,20 +542,20 @@ Other        ██░░░░░░░░░░░░░░░░░░░░�
 
 <br/>
 
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="520"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote" width="540"/>
 
 <br/><br/>
 
-### ⚡ Let's build something extraordinary
+### ⚡ Let's collaborate & build something extraordinary
 
-*Open to AI/ML projects · internships · research collaborations*
+*Open to AI/ML engineering, research collaborations, internships & high-impact projects*
 
 <br/>
 
-<a href="https://sahilkavishka.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐%20Portfolio-FF5722?style=for-the-badge" height="32"/></a>&nbsp;
-<a href="mailto:sahilkavishka428@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge" height="32"/></a>&nbsp;
-<a href="https://www.linkedin.com/in/sahilkavishka/"><img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge" height="32"/></a>&nbsp;
-<a href="https://www.kaggle.com/sahilkavishkakumara"><img src="https://img.shields.io/badge/📈%20Kaggle-20BEFF?style=for-the-badge" height="32"/></a>
+<a href="https://sahilkavishka.github.io/portfolio/"><img src="https://img.shields.io/badge/🌐%20Portfolio-FF5722?style=for-the-badge" height="32" alt="Portfolio"/></a>&nbsp;
+<a href="mailto:sahilkavishka428@gmail.com"><img src="https://img.shields.io/badge/📧%20Email-D14836?style=for-the-badge" height="32" alt="Email"/></a>&nbsp;
+<a href="https://www.linkedin.com/in/sahilkavishka/"><img src="https://img.shields.io/badge/💼%20LinkedIn-0077B5?style=for-the-badge" height="32" alt="LinkedIn"/></a>&nbsp;
+<a href="https://www.kaggle.com/sahilkavishkakumara"><img src="https://img.shields.io/badge/📈%20Kaggle-20BEFF?style=for-the-badge" height="32" alt="Kaggle"/></a>
 
 <br/><br/>
 
