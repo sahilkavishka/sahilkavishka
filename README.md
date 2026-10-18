@@ -160,6 +160,30 @@ Full-stack web platform for sports tournament and team management with OTP authe
 
 </td>
 </tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🌿 Sinharaja: Survival Adventure RPG
+![COMPLETE](https://img.shields.io/badge/COMPLETE-0f1e36?style=flat-square&labelColor=0f1e36&color=3b82f6)
+
+Full-stack interactive survival adventure game set in Sinharaja rainforest. Features 30+ branching decision nodes, dynamic player vitals (Health & Sanity), item inventory, quick-time events, and UNESCO biodiversity lore.
+
+`React` `Django` `DRF` `SQLite` `Interactive RPG`  
+[`View Repo →`](https://github.com/sahilkavishka/sinharaja)
+
+</td>
+<td width="50%" valign="top">
+
+### 💇 Salonora — Salon Management Platform
+![COMPLETE](https://img.shields.io/badge/COMPLETE-0f1e36?style=flat-square&labelColor=0f1e36&color=3b82f6)
+
+Full-featured appointment booking & business management web system with Leaflet.js interactive maps, collision-free slot reservations, PDO prepared statements, and role-based owner dashboards.
+
+`PHP` `MySQL` `Bootstrap` `Leaflet.js` `JavaScript`  
+[`View Repo →`](https://github.com/sahilkavishka/salon)
+
+</td>
+</tr>
 </table>
 
 ---
@@ -194,7 +218,7 @@ Cloud-integrated customer churn prediction engine utilizing advanced feature eng
 </td>
 </tr>
 <tr>
-<td width="50%" valign="top">
+<td colspan="2" valign="top">
 
 ### 🏆 Zentrix — MoraSPCup
 ![COMPETITION](https://img.shields.io/badge/COMPETITION-IEEE%20MoraSPCup-10b981?style=flat-square)
@@ -204,18 +228,6 @@ Signal processing and machine learning solution engineered for the MoraSPCup com
 
 `Python` `Signal Processing` `ML` `NumPy`  
 [`View Shared Repo →`](https://github.com/sahilkavishka/Zentrix-MoraSPCup)
-
-</td>
-<td width="50%" valign="top">
-
-### 🌿 Sinharaja Rainforest Intelligence
-![RESEARCH](https://img.shields.io/badge/CONSERVATION-Biodiversity%20AI-059669?style=flat-square)
-![ROLE](https://img.shields.io/badge/ROLE-Data%20Scientist-0ea5e9?style=flat-square)
-
-Collaborative environmental data analysis and biodiversity monitoring system focused on the Sinharaja rainforest biosphere reserve.
-
-`Python` `Data Analysis` `GIS` `Biodiversity`  
-[`View Shared Repo →`](https://github.com/sahilkavishka/sinharaja)
 
 </td>
 </tr>
