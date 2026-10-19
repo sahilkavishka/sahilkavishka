@@ -72,6 +72,16 @@ class SahilKavishka:
             "📊 Competing on Kaggle & publishing technical write-ups",
         ]
 
+    @property
+    def leadership_and_community(self):
+        return [
+            "🏛️ Secretary · Society of Computer Sciences (SOCS), SUSL",
+            "☁️ Outstanding Achievement Award · AWS Student Builder Group",
+            "🚀 Program Team Member · NEXORA 1.0 (IEEE Student Branch SUSL)",
+            "🤖 STEM Outreach & Micro:bit Trainer · HOPE 2.0 (IEEE WIE)",
+            "💻 Volunteer Coding Mentor · Code Club Sri Lanka",
+        ]
+
     def say_hi(self):
         return "Open to AI/ML projects, internships & collaborations — let's build! 🚀"
 ```
@@ -376,6 +386,91 @@ Signal processing & ML solution for the IEEE MoraSPCup competitive challenge org
 📌 *More projects, notebooks & datasets on [GitHub Repositories](https://github.com/sahilkavishka?tab=repositories) and [Kaggle](https://www.kaggle.com/sahilkavishkakumara).*
 
 </div>
+
+---
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                  LEADERSHIP & COMMUNITY IMPACT                     -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+## 🏛️ `leadership & community impact`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🏛️ Secretary — Society of Computer Sciences (SOCS)
+<img src="https://img.shields.io/badge/EXECUTIVE%20LEADERSHIP-6366f1?style=flat-square" alt="Executive Leadership"/>
+<img src="https://img.shields.io/badge/SUSL-0ea5e9?style=flat-square" alt="SUSL"/>
+
+Leading executive student administration, official university communications, technology workshops, and industry networking initiatives for the computing and data science student community at Sabaragamuwa University of Sri Lanka.
+
+`Leadership` `Community Management` `Event Planning`
+
+</td>
+<td width="50%" valign="top">
+
+### ☁️ Outstanding Achievement — AWS Student Builder
+<img src="https://img.shields.io/badge/HONOR%20AWARD-f59e0b?style=flat-square" alt="Award"/>
+<img src="https://img.shields.io/badge/AWS%20Cloud-232f3e?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS"/>
+
+Awarded Certificate of Outstanding Achievement for valuable contributions, active engagement, and community leadership in promoting AWS cloud computing, peer learning, and tech innovation at the AWS Student Builder Group SUSL.
+
+`AWS Cloud` `Community Leadership` `Peer Learning`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🚀 Program Team Member — NEXORA 1.0
+<img src="https://img.shields.io/badge/ORGANIZING%20COMMITTEE-10b981?style=flat-square" alt="Committee"/>
+<img src="https://img.shields.io/badge/IEEE%20SUSL-00629B?style=flat-square&logo=ieee&logoColor=white" alt="IEEE"/>
+
+Contributed to conceptualizing, logistics coordination, and executing NEXORA 1.0 — a flagship technology leadership and empowerment conference organized jointly by the IEEE Student Branch, IEEE CS Chapter, and IEEE WIE at SUSL. Awarded Certificate of Appreciation.
+
+`Program Management` `Logistics` `Cross-functional Teamwork`
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 STEM Outreach & Micro:bit Trainer — HOPE 2.0
+<img src="https://img.shields.io/badge/STEM%20VOLUNTEERING-ec4899?style=flat-square" alt="STEM Volunteering"/>
+<img src="https://img.shields.io/badge/IEEE%20WIE-7928ca?style=flat-square" alt="IEEE WIE"/>
+
+Conducted hands-on physical computing and foundational programming workshops using BBC Micro:bit microcontroller boards for schoolchildren at Karagasthalawa School, introducing young minds to hardware programming and algorithmic problem-solving.
+
+`STEM Education` `Micro:bit` `Physical Computing` `Community Outreach`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 💻 Volunteer Coding Mentor — Code Club Sri Lanka
+<img src="https://img.shields.io/badge/TECH%20MENTORSHIP-00d2ff?style=flat-square" alt="Mentorship"/>
+<img src="https://img.shields.io/badge/Digital%20Literacy-10b981?style=flat-square" alt="Digital Literacy"/>
+
+Mentored young learners at the National Library Services Board (Ratnapura Library) in foundational coding, interactive block programming, and digital literacy to empower regional youth through accessible tech education.
+
+`Youth Mentorship` `Scratch` `Digital Literacy` `Coding for Kids`
+
+</td>
+<td width="50%" valign="top">
+
+### ⚡ Competitive Programming & Hackathons — Finalist
+<img src="https://img.shields.io/badge/COMPETITIVE%20FINALS-7c3aed?style=flat-square" alt="Finalist"/>
+<img src="https://img.shields.io/badge/Team%20Code%20Wave-ff0080?style=flat-square" alt="Team Code Wave"/>
+
+• **J'Pura Xtreme 3.0** — University Category Finalist (IEEE USJ / Buildr Labs)  
+• **CodeRally 7.0** — 24-Hour Grand Finale Finalist (IEEE CS Chapter SUSL)  
+• **CV Boost 2026** — Career Fair & interviews with WSO2, Virtusa, Nagarro, Zone24x7, Sino Lanka, Idea8.
+
+`Competitive Programming` `Algorithms` `24h Hackathon`
+
+</td>
+</tr>
+</table>
 
 ---
 
